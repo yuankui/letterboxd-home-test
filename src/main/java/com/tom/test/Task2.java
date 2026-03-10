@@ -1,4 +1,4 @@
-package com.letterboxd.test;
+package com.tom.test;
 
 public class Task2 {
     /**

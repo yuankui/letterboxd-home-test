@@ -1,4 +1,4 @@
-package com.letterboxd.test;
+package com.tom.test;
 
 import org.junit.jupiter.api.Test;
 
