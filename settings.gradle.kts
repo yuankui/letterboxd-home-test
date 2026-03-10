@@ -1,1 +1,1 @@
-rootProject.name = "letterboxd-home-test"
+rootProject.name = "my-home-test"
